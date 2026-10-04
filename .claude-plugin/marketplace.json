@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dhruv-mods",
+  "description": "Claude Code mods by Dhruv Kumar",
+  "owner": { "name": "Dhruv Kumar" },
+  "plugins": [
+    {
+      "name": "cricket-commentary",
+      "description": "Live IPL-style cricket commentary for Claude Code: every tool call is a ball, with a scoreboard, a pixel big screen, crowd sounds and a commentator who speaks.",
+      "author": { "name": "Dhruv Kumar" },
+      "category": "fun",
+      "source": "./"
+    }
+  ]
+}

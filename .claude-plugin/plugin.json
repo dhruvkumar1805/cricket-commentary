@@ -1,0 +1,7 @@
+{
+  "name": "cricket-commentary",
+  "version": "0.1.0",
+  "author": { "name": "Dhruv Kumar" },
+  "description": "Live cricket commentary for Claude Code: every tool call is a ball, with a scoreboard, a pixel big screen, crowd sounds and an Indian commentator who speaks.",
+  "types": "./types/index.d.ts"
+}
